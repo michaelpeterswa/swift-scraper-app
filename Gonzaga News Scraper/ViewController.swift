@@ -9,6 +9,9 @@
 import UIKit
 import WebKit
 
+import Kanna
+import Alamofire
+
 class ViewController: UIViewController, WKNavigationDelegate {
 
     
