@@ -109,7 +109,6 @@
 				56A12AA0C9C18BC09EF78AD2 /* Pods-Gonzaga News ScraperUITests.debug.xcconfig */,
 				1AED981D2644192F92A63C24 /* Pods-Gonzaga News ScraperUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
